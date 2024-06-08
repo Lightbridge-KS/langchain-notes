@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "LangChain Notes"
+  author: "Kittipos Sirivongrungson"
+  date: "6/8/2024"
+  chapters:
+    - index.qmd
+    - part: "Basic"
+      chapters: 
+        - "simple-llm.ipynb"
+    - part: "How to"
+      chapters: 
+        - "build-chatbot.ipynb"
+
+
+format:
+  html:
+    theme: zephyrs
+
+execute:
+  freeze: true
+
