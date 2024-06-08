@@ -16,6 +16,7 @@ book:
     - part: "RAG"
       chapters: 
         - "rag/vector-store-retriver.ipynb"
+        - "rag/extraction-chain.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
