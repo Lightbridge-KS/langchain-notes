@@ -11,10 +11,16 @@ book:
     - index.qmd
     - part: "Basic"
       chapters: 
-        - "simple-llm.ipynb"
+        - "basic/quickstart.ipynb"
+        - "basic/simple-llm.ipynb"
+    - part: "RAG"
+      chapters: 
+        - "rag/vector-store-retriver.ipynb"
     - part: "How to"
       chapters: 
-        - "build-chatbot.ipynb"
+        - "basic/build-chatbot.ipynb"
+        - "basic/build-rag-app-web.ipynb"
+        - "telephone/telephone-bot.ipynb"
 
 
 format:
@@ -22,5 +28,5 @@ format:
     theme: zephyrs
 
 execute:
-  freeze: true
+  freeze: auto
 
