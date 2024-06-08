@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 217cd277-d75e-46d4-b285-3b97bd8d8a8f
+      url: 'https://langchain-notes-lightbridge.netlify.app'
