@@ -5,6 +5,8 @@ book:
   title: "LangChain Notes"
   author: "Kittipos Sirivongrungson"
   date: "6/8/2024"
+  repo-url: https://github.com/Lightbridge-KS/langchain-notes
+  site-url: https://langchain-notes-lightbridge.netlify.app
   chapters:
     - index.qmd
     - part: "Basic"
