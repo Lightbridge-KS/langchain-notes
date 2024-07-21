@@ -30,6 +30,7 @@ book:
     - part: "CSV"
       chapters: 
         - "CSV/csv_load.ipynb"
+        - "CSV/telephone-csv.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"

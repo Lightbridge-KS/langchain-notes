@@ -1,0 +1,28 @@
+Building,CodeName,Description,Telephone
+,ถามเบอร์,ถามเบอร์โทรศัพท์ใดๆ,1000
+ER,USER,Counter US at ER,0338
+ER,CTER,Tech CT at ER,"0350, 47115"
+ER,Xray ER,Radiology Interpretation Room,"0346, 47968"
+ER,Team ER,Ask Team ER,1182
+ER,ER1,ER Team 1,0301
+ER,ER2,ER Team 2,0303
+ER,ER3,ER Team 3,0334
+ER,Resus1,Resusitation 1,1107
+ER,Resus2,Resusitation 2,2282
+ER ward,1OW,Observe Ward 1,"1345, 1350"
+ER ward,2OW,Observe Ward 2,"1334, 1339"
+ER ward,3OW,Observe Ward 3,"0345, 2875"
+ER ward,4IT,ICU Trauma (4th floor),"2140, 2143"
+ER ward,4TW,Trauma Ward (4th floor),"1521, 1531"
+Bldg.1,IT - PAC,IT PAC ในเวลา,2462
+Bldg.1,IT - PAC (duty),IT PAC นอกเวลา,46365
+Bldg.1,US 2nd (Room),US 2nd floor (Room),"1340, 2497"
+Bldg.1,US 2nd (Counter),US 2nd floor (Counter),1247
+Sirikit,AIMC - Gen,AIMC - General (1st floor),6700
+Sirikit,AIMC - Film Room,AIMC - Film Room,6710
+Sirikit,CT1,AIMC - CT (1st floor),6712
+Sirikit,MR1,AIMC - MR (1st floor),6711
+Sirikit,CT2,AIMC - CT (2nd floor),6733
+Sirikit,MR2,AIMC - MR (2nd floor),6734
+SDMC,CT - SDMC,Tech CT at SDMC,"3358, 080-246-1879"
+,ดาวเหลือง,ดาวเหลือง,0153
