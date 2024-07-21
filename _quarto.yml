@@ -13,6 +13,9 @@ book:
       chapters: 
         - "basic/quickstart.ipynb"
         - "basic/simple-llm.ipynb"
+    - part: "LCEL"
+      chapters: 
+        - "LCEL/lcel-1.ipynb"
     - part: "RAG"
       chapters: 
         - "rag/vector-store-retriver.ipynb"
