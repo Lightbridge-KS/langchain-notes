@@ -27,6 +27,9 @@ book:
       chapters: 
         - "pdf-ingest/pdf-qa-1.ipynb"
         - "pdf-ingest/pdf-qa-2.ipynb"
+    - part: "CSV"
+      chapters: 
+        - "CSV/csv_load.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
