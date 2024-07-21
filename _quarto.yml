@@ -20,6 +20,9 @@ book:
     - part: "Tables Extract"
       chapters: 
         - "tables/qa-csv.ipynb"
+    - part: "PDF"
+      chapters: 
+        - "pdf-ingest/pdf-ingest-qa.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
