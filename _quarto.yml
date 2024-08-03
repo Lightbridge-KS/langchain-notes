@@ -31,6 +31,9 @@ book:
       chapters: 
         - "CSV/csv_load.ipynb"
         - "CSV/telephone-csv.ipynb"
+    - part: "Agent"
+      chapters:
+        - "agent/agent-basic.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
