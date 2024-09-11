@@ -20,6 +20,7 @@ book:
       chapters: 
         - "rag/vector-store-retriver.ipynb"
         - "rag/extraction-chain.ipynb"
+        - "ollama/ollama-rag.ipynb"
     - part: "Tables Extract"
       chapters: 
         - "tables/qa-csv.ipynb"
