@@ -16,6 +16,8 @@ book:
     - part: "LCEL"
       chapters: 
         - "LCEL/lcel-1.ipynb"
+        - "LCEL/lcel-2.ipynb"
+        - "LCEL/lcel-deepdive.ipynb"
     - part: "RAG"
       chapters: 
         - "rag/vector-store-retriver.ipynb"
