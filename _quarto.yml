@@ -13,6 +13,7 @@ book:
       chapters: 
         - "basic/quickstart.ipynb"
         - "basic/simple-llm.ipynb"
+        - "history/msg-history.ipynb"
     - part: "LCEL"
       chapters: 
         - "LCEL/lcel-1.ipynb"
@@ -41,6 +42,7 @@ book:
     - part: "LangChain for LLM App"
       chapters: 
         - "lc-app-dev/L1-Model_prompt_parser.ipynb"
+        - "lc-app-dev/L2-Memory.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
