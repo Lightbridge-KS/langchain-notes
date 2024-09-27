@@ -38,6 +38,9 @@ book:
       chapters:
         - "agent/agent-basic.ipynb"
         - "agent/tool-calling.ipynb"
+    - part: "LangChain for LLM App"
+      chapters: 
+        - "lc-app-dev/L1-Model_prompt_parser.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
