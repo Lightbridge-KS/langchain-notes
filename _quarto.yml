@@ -43,6 +43,7 @@ book:
       chapters: 
         - "lc-app-dev/L1-Model_prompt_parser.ipynb"
         - "lc-app-dev/L2-Memory.ipynb"
+        - "lc-app-dev/L3-Chains.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
