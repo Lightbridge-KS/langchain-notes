@@ -19,6 +19,9 @@ book:
         - "LCEL/lcel-1.ipynb"
         - "LCEL/lcel-2.ipynb"
         - "LCEL/lcel-deepdive.ipynb"
+    - part: "Parse"
+      chapters:
+        - "parse/html-to-md.ipynb"
     - part: "RAG"
       chapters: 
         - "rag/vector-store-retriver.ipynb"
