@@ -19,6 +19,11 @@ book:
         - "LCEL/lcel-1.ipynb"
         - "LCEL/lcel-2.ipynb"
         - "LCEL/lcel-deepdive.ipynb"
+    - part: "PDF Loading"
+      chapters: 
+        - "pdf-load/pdf-load-simple.ipynb"
+        - "pdf-load/pdf-load-unstructured.ipynb"
+        - "pdf-load/pdf-load-pymu.ipynb"
     - part: "Parse"
       chapters:
         - "parse/html-to-md.ipynb"
@@ -47,6 +52,9 @@ book:
         - "lc-app-dev/L1-Model_prompt_parser.ipynb"
         - "lc-app-dev/L2-Memory.ipynb"
         - "lc-app-dev/L3-Chains.ipynb"
+    - part: "Local LLM"
+      chapters: 
+        - "local/lc-local-model.ipynb"
     - part: "How to"
       chapters: 
         - "basic/build-chatbot.ipynb"
