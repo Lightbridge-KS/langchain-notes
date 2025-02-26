@@ -60,6 +60,9 @@ book:
         - "basic/build-chatbot.ipynb"
         - "basic/build-rag-app-web.ipynb"
         - "telephone/telephone-bot.ipynb"
+    - part: "DL Course: Chat with Your Data"
+      chapters: 
+        - "lc-chat-with-data-course/01_document_loading.ipynb"
 
 
 format:
