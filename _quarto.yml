@@ -63,6 +63,9 @@ book:
     - part: "DL Course: Chat with Your Data"
       chapters: 
         - "lc-chat-with-data-course/01_document_loading.ipynb"
+        - "lc-chat-with-data-course/02_document_splitting.ipynb"
+        - "lc-chat-with-data-course/03_vectorstores_and_embeddings.ipynb"
+        - "lc-chat-with-data-course/04_retrieval.ipynb"
 
 
 format:
